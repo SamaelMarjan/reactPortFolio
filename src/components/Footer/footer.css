@@ -1,0 +1,13 @@
+.footer {
+    background: #1c1e24;
+    height: 200px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.footer--content {
+    text-align: center;
+}

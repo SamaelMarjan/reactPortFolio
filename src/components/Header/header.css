@@ -1,0 +1,14 @@
+header {
+    display: block;
+}
+
+.navigation {
+    background: #1c1e24;
+    height: 60px;
+    width: 100%;
+    border-bottom: 1px solid hsla(0,0%,100%,0.1);
+    left: 0;
+    position: fixed;
+    top: 0;
+    z-index: 9;
+}
